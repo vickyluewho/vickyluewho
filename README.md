@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vickyluewho
-- 👀 I’m interested in learning how to add mods into video games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning how to create mods in video games
+- 🌱 I’m currently learning java and python
+- 💞️ I’m looking to collaborate on video game mods
 - 📫 How to reach me ...
 
 <!---
